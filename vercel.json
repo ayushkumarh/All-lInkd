@@ -3,6 +3,12 @@
     {
       "source": "/All",
       "destination": "/All.html"
+    },
+
+    {
+      "source": "/Willow",
+      "destination": "/Willow.html"
+
     }
   ]
 }
